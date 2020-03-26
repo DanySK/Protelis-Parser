@@ -1,6 +1,51 @@
 # Protelis-Parser
 Parser for Protelis, the practical aggregate programming language
 
+## Badges
+
+### Info
+![Travis (.com)](https://img.shields.io/travis/com/Protelis/Protelis-parser)
+![CII Best Practices Summary](https://img.shields.io/cii/summary/3810)
+![GitHub language count](https://img.shields.io/github/languages/count/Protelis/Protelis-parser)
+![GitHub top language](https://img.shields.io/github/languages/top/Protelis/Protelis-parser)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Protelis/Protelis-parser)
+![GitHub repo size](https://img.shields.io/github/repo-size/Protelis/Protelis-parser)
+![Maven Central](https://img.shields.io/maven-central/v/org.protelis/protelis.parser)
+![GitHub contributors](https://img.shields.io/github/contributors/Protelis/Protelis-parser)
+
+### Coverage
+![Codacy coverage](https://img.shields.io/codacy/coverage/b27fc7ed29a944e1a17b148e58435d86)
+![Code Climate coverage](https://img.shields.io/codeclimate/coverage/Protelis/Protelis-parser)
+![Codecov](https://img.shields.io/codecov/c/github/Protelis/Protelis-parser)
+*[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=Protelis_Protelis-parser&metric=coverage)](https://sonarcloud.io/dashboard?id=Protelis_Protelis-parser)*
+
+### Quality
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/b27fc7ed29a944e1a17b148e58435d86)](https://www.codacy.com/manual/danilo-pianini/Protelis-Parser?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Protelis/Protelis-Parser&amp;utm_campaign=Badge_Grade)
+![Code Climate coverage](https://img.shields.io/codeclimate/coverage/Protelis/Protelis-parser)
+![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability-percentage/Protelis/Protelis-parser)
+![Code Climate maintainability](https://img.shields.io/codeclimate/issues/Protelis/Protelis-parser)
+![Code Climate maintainability](https://img.shields.io/codeclimate/tech-debt/Protelis/Protelis-parser)
+[![CodeFactor](https://www.codefactor.io/repository/github/Protelis/Protelis-parser/badge)](https://www.codefactor.io/repository/github/Protelis/Protelis-parser)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Protelis_Protelis-parser&metric=alert_status)](https://sonarcloud.io/dashboard?id=Protelis_Protelis-parser)
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Protelis_Protelis-parser&metric=bugs)](https://sonarcloud.io/dashboard?id=Protelis_Protelis-parser)
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Protelis_Protelis-parser&metric=code_smells)](https://sonarcloud.io/dashboard?id=Protelis_Protelis-parser)
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=Protelis_Protelis-parser&metric=duplicated_lines_density)](https://sonarcloud.io/dashboard?id=Protelis_Protelis-parser)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Protelis_Protelis-parser&metric=ncloc)](https://sonarcloud.io/dashboard?id=Protelis_Protelis-parser)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Protelis_Protelis-parser&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=Protelis_Protelis-parser)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Protelis_Protelis-parser&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=Protelis_Protelis-parser)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Protelis_Protelis-parser&metric=security_rating)](https://sonarcloud.io/dashboard?id=Protelis_Protelis-parser)
+[![Technical Debt](https://sonarcloud.io/api/project_badges/measure?project=Protelis_Protelis-parser&metric=sqale_index)](https://sonarcloud.io/dashboard?id=Protelis_Protelis-parser)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Protelis_Protelis-parser&metric=vulnerabilities)](https://sonarcloud.io/dashboard?id=Protelis_Protelis-parser)
+
+### Progress
+![GitHub issues](https://img.shields.io/github/issues/Protelis/Protelis-parser)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Protelis/Protelis-parser)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Protelis/Protelis-parser)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Protelis/Protelis-parser)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Protelis/Protelis-parser)
+![GitHub commits since latest release (by date)](https://img.shields.io/github/commits-since/Protelis/Protelis-parser/latest/develop)
+![GitHub last commit](https://img.shields.io/github/last-commit/Protelis/Protelis-parser)
+
 ## Required Eclipse plugins
 
 * Xtext 2.7.3+
